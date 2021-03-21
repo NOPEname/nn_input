@@ -1,0 +1,15 @@
+>> scoreboard objectives:
+
+
+
+>> tags:
+
+nnin_facing_
+  - available tags:
+      nnin_facing_north
+      nnin_facing_south
+      nnin_facing_west
+      nnin_facing_east
+  - updated every game tick
+  - applied to players
+  - if player looks exactly diagonally, two tags are applied!
