@@ -59,7 +59,7 @@ scoreboard objectives add nnin_lectern minecraft.custom:minecraft.interact_with_
 scoreboard objectives add nnin_loom minecraft.custom:minecraft.interact_with_loom
 scoreboard objectives add nnin_smithing_t minecraft.custom:minecraft.interact_with_smithing_table
 scoreboard objectives add nnin_smoker minecraft.custom:minecraft.interact_with_smoker
-scoreboard objectives add nnin_stone_cut minecraft.custom:minecraft.interact_with_stone_cutter
+scoreboard objectives add nnin_stone_cut minecraft.custom:minecraft.interact_with_stonecutter
 
 scoreboard objectives add nnin_barrel minecraft.custom:minecraft.open_barrel
 scoreboard objectives add nnin_chest minecraft.custom:minecraft.open_chest
@@ -74,7 +74,7 @@ scoreboard objectives add nnin_use_caul minecraft.custom:minecraft.use_cauldron
 scoreboard objectives add nnin_fill_caul minecraft.custom:minecraft.fill_cauldron
 
 scoreboard objectives add nnin_trap_chest minecraft.custom:minecraft.trigger_trapped_chest
-scoreboard objectives add nnin_cake minecraft.custom:minecraft.eat_slice_cake
+scoreboard objectives add nnin_cake minecraft.custom:minecraft.eat_cake_slice
 scoreboard objectives add nnin_pot_flower minecraft.custom:minecraft.pot_flower
 scoreboard objectives add nnin_bed minecraft.custom:minecraft.sleep_in_bed
 
