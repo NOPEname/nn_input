@@ -1,9 +1,17 @@
 >> functions:
-  - you need to run "nninput:tick" manually!
+You need to run "nninput:tick" manually!
+
+
 
 
 
 >> scoreboard objectives:
+
+nnin_click_carr
+  - set to 1 (or higher) by Minecraft at start of game tick
+  - set to 0 by "nninput:tick" at the end of game tick
+
+
 
 
 
