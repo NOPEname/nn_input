@@ -1,3 +1,8 @@
+>> functions:
+  - you need to run "nninput:tick" manually!
+
+
+
 >> scoreboard objectives:
 
 
